@@ -1,2 +1,3 @@
-# Bol-m-sonu-al-t-rmas-
+# Bolum Sonu Calismasi
 html bölüm sonu alıştırması ödevi
+https://www.patika.dev/tr
